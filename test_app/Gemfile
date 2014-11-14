@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem "kottans_middleware",:path => "/Users/khrystynaklochko/Desktop/kottans/kottans_middleware"
+
+gem "sinatra"
